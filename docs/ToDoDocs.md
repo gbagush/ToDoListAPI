@@ -89,7 +89,7 @@ To edit To Do that has been made <i>`(require authentication)`</i>
 
 ## Delete
 To delete To Do that has been created <i>`(require authentication)`</i>
-### PUT `/todo/delete/:todoID`
+### DELETE `/todo/delete/:todoID`
 #### Parameter:
 ```
 No need any parameter
